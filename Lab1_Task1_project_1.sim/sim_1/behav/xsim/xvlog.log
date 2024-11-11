@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/project_subdirectory/Lab1_Task1_project_1/Lab1_Task1_project_1.srcs/sources_1/new/and4gate.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module andgate
+INFO: [VRFC 10-311] analyzing module and4gate
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/project_subdirectory/Lab1_Task1_project_1/Lab1_Task1_project_1.srcs/sim_1/new/tb_and4gate.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_and4gate
