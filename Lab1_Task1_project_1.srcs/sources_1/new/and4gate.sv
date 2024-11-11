@@ -23,6 +23,7 @@ input logic a,
 input logic b,
 output logic f
 );
+assign f = a & b; 
 endmodule
 
 module and4gate(
